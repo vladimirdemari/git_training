@@ -1,1 +1,1 @@
-Estoy con los chicos del Academy haciendo el taller de git.
+Clase de git en el Taller Linux Julio 2023
